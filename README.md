@@ -61,10 +61,15 @@ plt.show()
 
 ## Output:
 ![Screenshot 2024-10-17 131146](https://github.com/user-attachments/assets/22390058-6bd8-45d7-a323-89a462d02921)
+
 ![Screenshot 2024-10-17 131153](https://github.com/user-attachments/assets/5d9bb049-6277-431d-9d57-ee900df3f4cd)
+
 ![Screenshot 2024-10-17 131200](https://github.com/user-attachments/assets/897cde68-ccca-4060-b84a-ba9a450b696a)
+
 ![Screenshot 2024-10-17 131208](https://github.com/user-attachments/assets/407e8271-2014-4ae0-8995-996087deb2bc)
+
 ![Screenshot 2024-10-17 131220](https://github.com/user-attachments/assets/591d5a66-5b1d-4f13-8363-2ff5d9d39ff6)
+
 ![Screenshot 2024-10-17 131231](https://github.com/user-attachments/assets/367b45e9-6f57-409c-82d5-5840460e31b9)
 
 
