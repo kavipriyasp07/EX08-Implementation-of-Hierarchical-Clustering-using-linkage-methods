@@ -9,8 +9,11 @@ To implement Hierarchical Clustering using single and complete linkage method
 
 ## Algorithm
 1.Compute the distance matrix between all data points.
+
 2.Identify the two closest cluster and merge them.
+
 3.Update the distance matrix to reflect the new cluster.
+
 4.Repeat steps 2 and 3 until only one cluster remains.
 
 ## Program:
